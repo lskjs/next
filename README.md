@@ -1,3 +1,29 @@
+
+# @lskjs/next
+
+## Последовательность шагов, которые я делаю
+- npx create-next-app lskjs-next
+- clone content from https://github.com/vladilenm/next-crash-course
+- fix bugs
+- update packages
+- npm i -E @lskjs/button 
+
+## Дополнительные материалы
+
+### Видео по теме
+- [NextJS](https://www.youtube.com/watch?v=_EOrSmjdOZQ)
+- [TypeScript](https://www.youtube.com/watch?v=nyIpDs2DJ_c)
+- [TS Продвинутый](https://www.youtube.com/watch?v=7NU6K4170As)
+- [React + TS](https://www.youtube.com/watch?v=OvLWWvjoi8s)
+
+### Видео по соседним темам
+- [React](https://www.youtube.com/watch?v=xJZa2_aldDs)
+- [Node](https://www.youtube.com/watch?v=3aGSqasVPsI)
+- [ES6](https://www.youtube.com/watch?v=Ti2Q4sQkNdU)
+- [JS 2020](https://www.youtube.com/watch?v=7TpAN4FISeI)
+
+-------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -28,3 +54,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
