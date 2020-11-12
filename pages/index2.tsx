@@ -8,7 +8,7 @@ export default function Index() {
       <h1>Hello Next.JS!</h1>
       <p><Link href={'/about'}><a>About</a></Link></p>
       <p><Link href="/posts"><a>Posts</a></Link></p>
-      <p><Button paint="primary">NEXT-LSK</Button></p>
+      <p><Button paint="primary">@lskjs/next</Button></p>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
     </MainLayout>
   )

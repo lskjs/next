@@ -12,17 +12,21 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://github.com/lskjs/next">@lskjs/next</a>
         </h1>
 
-        <Button paint='primary'>
-          Hello Lsk World
-        </Button>
+        <p className={styles.description}>
+          <Button paint='primary' href="https://github.com/lskjs/next">
+            Read more
+          </Button>
+        </p>
 
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
+
+
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
