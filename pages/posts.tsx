@@ -14,7 +14,7 @@ export default function Posts({ posts: serverPosts }: PostsPageProps) {
 
   useEffect(() => {
     async function load() {
-      const response = await fetch('http://localhost:4200/posts')
+      const response = await fetch('http://localhost:4300/posts')
       const json = await response.json()
       setPosts(json)
     }
